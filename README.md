@@ -2,45 +2,17 @@
 
 🚀 **The AI-Powered Software Engineer: Code from a Single Sentence!**
 
-<img src="logo.svg" alt="AI Developer Logo" width="80">
-
 <div style="text-align: center; background: #1a1a1a; padding: 20px; color: white; border-radius: 10px;">
     <h1>AI Developer</h1>
     <p>Code Less, Do More</p>
 </div>
 
 ## 🌟 **Why AI Developer?**
+🌐 [View the full HTML page]: ([https://github.com/albert-weasker/ai_developer](https://albert-weasker.github.io/ai_developer/))
+
 # AI Dev Engineer
 
 🚀 **The AI-Powered Software Engineer: Code from a Single Sentence!**
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-<div style="background: #0e0e0e; color: #ffffff; padding: 20px; border-radius: 10px;">
-    <h1>AI Developer</h1>
-    <p>Code Less, Do More</p>
-</div>
-
-<table>
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <i class="fas fa-robot"></i>
-      <h3>Automated Coding</h3>
-      <p>AI generates and refines code based on your requirements.</p>
-    </td>
-    <td style="padding: 10px; text-align: center;">
-      <i class="fas fa-file-code"></i>
-      <h3>Project Generation</h3>
-      <p>From idea to full project structure in seconds.</p>
-    </td>
-  </tr>
-</table>
-
-<div style="text-align: center; margin-top: 30px;">
-  <a href="https://github.com/albert-weasker/ai_developer" style="background: #ff5733; padding: 10px 20px; border-radius: 10px; color: white; text-decoration: none; font-size: 1.5em;">
-    Join Us & Ignite the Future!
-  </a>
-</div>
 
 ## **🚀 Project Status: In Development**
 This project is actively being developed and is not yet deployed. We are continuously refining our AI-powered development process, and exciting updates are on the way. Stay tuned for progress and upcoming releases!
