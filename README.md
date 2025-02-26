@@ -10,6 +10,16 @@
 </div>
 
 ## 🌟 **Why AI Developer?**
+# AI Dev Engineer
+
+🚀 **The AI-Powered Software Engineer: Code from a Single Sentence!**
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+<div style="background: #0e0e0e; color: #ffffff; padding: 20px; border-radius: 10px;">
+    <h1>AI Developer</h1>
+    <p>Code Less, Do More</p>
+</div>
 
 <table>
   <tr>
@@ -22,18 +32,6 @@
       <i class="fas fa-file-code"></i>
       <h3>Project Generation</h3>
       <p>From idea to full project structure in seconds.</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <i class="fas fa-tasks"></i>
-      <h3>Automated Testing</h3>
-      <p>Ensure code quality with AI-driven testing.</p>
-    </td>
-    <td style="padding: 10px; text-align: center;">
-      <i class="fas fa-cloud-upload-alt"></i>
-      <h3>Deployment Automation</h3>
-      <p>Seamlessly deploy applications with AI assistance.</p>
     </td>
   </tr>
 </table>
